@@ -1,9 +1,11 @@
 1.小组成员：	
+
 刘庭杰  账户名称：scattered-shadow
 
 荆泽宇	账户名称：Jzy604948
 
 2.项目介绍
+
 已完成项目：1、2、3、7、17
 
 Project1: implement the naïve birthday attack of reduced SM3
@@ -41,7 +43,8 @@ Project2: implement the Rho method of reduced SM3
 因此我们的方法是在 [2, n-1] 中选取 k 个数，如果 gcd(xi - xj, N) > 1 ，那么我们就找到了相应的因数。
 
 
-运行截图![屏幕截图 2022-07-31 113842](https://user-images.githubusercontent.com/57316569/182013824-9e4bf67c-cf3c-45ae-b2e0-5a066a9b7ba7.png)
+运行截图
+![屏幕截图 2022-07-31 113842](https://user-images.githubusercontent.com/57316569/182013824-9e4bf67c-cf3c-45ae-b2e0-5a066a9b7ba7.png)
 
 
 Project3: implement length extension attack for SM3, SHA256, etc.
@@ -58,7 +61,8 @@ a=xxxx
 b=sm3(a+填充)
 c=sm3(b+a)
 
-运行截图![len_attack](https://user-images.githubusercontent.com/57316569/182013691-7cf1f16f-b254-47f6-b28b-14fe2edc14fe.PNG)
+运行截图
+![len_attack](https://user-images.githubusercontent.com/57316569/182013691-7cf1f16f-b254-47f6-b28b-14fe2edc14fe.PNG)
 
 *Project7: report on the application of this deduce technique in Ethereum with ECDSA
 
@@ -82,6 +86,8 @@ Project17: research report on MPT
 
 3.贡献说明
 
-刘庭杰：sm3生日攻击、MPT报告、长度扩展攻击
-
 荆泽宇：sm3算法实现 sm3的rho算法实现、ECDSA报告
+
+刘庭杰：sm3生日攻击、长度扩展攻击、MPT报告
+
+
