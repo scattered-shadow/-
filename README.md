@@ -20,9 +20,10 @@ Project1: implement the naïve birthday attack of reduced SM3
 符合算法成功概率
 
 
-运行截图![Uploading birthday_attack1.PNG…]()
-：
-![Uploading SM3_birthday_attack2.png…]()
+运行截图：
+![birthday_attack1](https://user-images.githubusercontent.com/57316569/182013943-1bdacc3d-e488-461c-aa60-d9a0b5bfc543.PNG)
+
+![SM3_birthday_attack2](https://user-images.githubusercontent.com/57316569/182013945-7d642f1c-a984-42f5-b794-13f63f468974.png)
 
 
 Project2: implement the Rho method of reduced SM3
